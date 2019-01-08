@@ -1,0 +1,24 @@
+Simple terrain generator in Canvas and OpenGL
+=============================================
+
+This generator use a simple noise generator with simple normalizer formula.
+For Canvas, this use tkinter module with Tk.Canvas() object.
+OpenGL way isn't finished yet.
+
+Installation
+============
+
+1) Make sure you have OpenGL, FreeGLUT and Tk lib and headers installed in your machine
+2) Install with 'pip install -r requirements.txt'
+3) Ready
+
+Use
+===
+
+Just run tk_terrain.py or gl_terrain.py to test.
+You can play with tk_terrain.py variables to change behaviour.
+
+LICENSE
+=======
+
+WTFPL
